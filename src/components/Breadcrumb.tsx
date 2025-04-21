@@ -25,7 +25,7 @@ export default function Breadcrumb() {
         {segments[0]}
       </h1>
       <div className="inline-flex mt-8 text-lg font-medium font-sans text-pretty text-gray-500">
-        <Link href="/" className="text-indigo-400">
+        <Link href="/" className="text-blue-400">
           Home
         </Link>
         {breadcrumbItems.map((item, index) => (
@@ -34,7 +34,7 @@ export default function Breadcrumb() {
             {index === breadcrumbItems.length - 1 ? (
               <span className="capitalize">{item.label}</span>
             ) : (
-              <Link href={item.path} className="text-indigo-400 capitalize">
+              <Link href={item.path} className="text-blue-400 capitalize">
                 {item.label}
               </Link>
             )}

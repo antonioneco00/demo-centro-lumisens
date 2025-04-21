@@ -1,23 +1,23 @@
-import { CheckIcon } from "@heroicons/react/20/solid";
+import { CheckIcon, CheckBadgeIcon, CpuChipIcon } from "@heroicons/react/20/solid";
 
 export const features = [
   {
-    name: "Feature 1.",
+    name: "Terapeutas certificados.",
     description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.",
+      "Nuestro equipo está formado por terapeutas certificados en luminoterapia y sonoterapia.",
+    icon: CheckBadgeIcon,
+  },
+  {
+    name: "Años de experiencia.",
+    description:
+      "Con más de 10 años de experiencia en el sector, ofrecemos un servicio de calidad.",
     icon: CheckIcon,
   },
   {
-    name: "Feature 2.",
+    name: "Técnicas innovadoras.",
     description:
-      "Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.",
-    icon: CheckIcon,
-  },
-  {
-    name: "Feature 3.",
-    description:
-      "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.",
-    icon: CheckIcon,
+      "Utilizamos técnicas innovadoras que combinan tecnología, relajación y conexión interior.",
+    icon: CpuChipIcon,
   },
 ];
 
