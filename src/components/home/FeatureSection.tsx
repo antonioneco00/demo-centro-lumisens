@@ -146,7 +146,7 @@ export default function FeatureSection() {
       </div>
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
-          <div className="lg:pr-8">
+          <div className="lg:pr-8 z-10">
             <div className="lg:max-w-lg">
               <h2 className="mt-2 text-4xl font-semibold tracking-tight text-pretty sm:text-5xl">
                 Sobre nosotros
@@ -186,7 +186,7 @@ export default function FeatureSection() {
             alt="about image"
             width={500}
             height={500}
-            className="w-auto h-auto object-contain drop-shadow-three rounded-tl-3xl rounded-br-3xl shadow-[10px_10px_0] shadow-blue-500/60"
+            className="w-auto h-auto object-contain drop-shadow-three rounded-tl-3xl rounded-br-3xl shadow-[10px_10px_0] shadow-blue-500/60 z-10"
           />
         </div>
       </div>
