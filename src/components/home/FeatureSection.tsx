@@ -43,6 +43,7 @@ export default function FeatureSection() {
           viewBox="0 0 307 283"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
+          className="size-1/3 md:size-1/2 lg:size-2/3 xl:size-full"
         >
           <path
             d="M56 0.99999C146.571 58.6396 131.682 134.873 199.921 162.143C304.288 203.852 296.074 246.846 306 283"
