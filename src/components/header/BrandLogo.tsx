@@ -8,9 +8,9 @@ export default function BrandLogo() {
         <Image
           alt="Logo"
           src="/logo.png"
-          width={80}
-          height={80}
-          className="-my-10 w-auto max-h-12 object-contain"
+          width={128}
+          height={72}
+          className="-my-10 w-auto max-h-16 object-contain"
         />
       </Link>
     </div>
