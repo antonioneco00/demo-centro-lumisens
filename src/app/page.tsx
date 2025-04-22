@@ -6,13 +6,12 @@ import { Metadata } from "next";
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: "Home",
+    title: "Lumisens",
     description:
-      "Welcome to our homepage. Here you will find information about our products and services.",
+      "Bienestar a través de la luz y el sonido.",
     openGraph: {
-      title: "Home",
-      description:
-        "Welcome to our homepage. Here you will find information about our products and services.",
+      title: "Lumisens",
+      description: "Bienestar a través de la luz y el sonido.",
       type: "website",
     },
   };
