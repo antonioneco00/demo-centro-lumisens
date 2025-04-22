@@ -87,7 +87,7 @@ export default function Footer() {
                   src="/logo.png"
                   width={100}
                   height={100}
-                  className="mx-auto sm:mx-0 w-auto h-auto object-contain"
+                  className="mx-auto sm:mx-0 w-auto h-auto object-contain dark:brightness-200"
                 />
               </Link>
               <p className="mb-4 sm:mb-8 text-base text-gray-400 leading-relaxed">
