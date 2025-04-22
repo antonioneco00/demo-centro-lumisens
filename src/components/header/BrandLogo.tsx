@@ -10,7 +10,7 @@ export default function BrandLogo() {
           src="/logo.png"
           width={80}
           height={80}
-          className="-my-10 w-auto h-auto object-contain"
+          className="-my-10 w-auto max-h-12 object-contain"
         />
       </Link>
     </div>
