@@ -88,7 +88,7 @@ export default function Testimonials() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="var(--color-blue-500)" stopOpacity="0.5" />
-              <stop offset="1" stopColor="white" stopOpacity="0" />
+              <stop offset="1" stopColor="var(--color-blue-500)" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint1_linear_57_22"
@@ -99,7 +99,7 @@ export default function Testimonials() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="var(--color-blue-500)" stopOpacity="0.5" />
-              <stop offset="1" stopColor="white" stopOpacity="0" />
+              <stop offset="1" stopColor="var(--color-blue-500)" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint2_linear_93_5"
@@ -227,7 +227,7 @@ export default function Testimonials() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="var(--color-blue-500)" />
-              <stop offset="1" stopColor="white" stopOpacity="0" />
+              <stop offset="1" stopColor="var(--color-blue-500)" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint2_linear_30_517"
@@ -238,7 +238,7 @@ export default function Testimonials() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="var(--color-blue-500)" />
-              <stop offset="1" stopColor="white" stopOpacity="0" />
+              <stop offset="1" stopColor="var(--color-blue-500)" stopOpacity="0" />
             </linearGradient>
           </defs>
         </svg>

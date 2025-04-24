@@ -85,7 +85,7 @@ export default function FeatureSection() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="var(--color-blue-500)" />
-              <stop offset="1" stopColor="white" stopOpacity="0" />
+              <stop offset="1" stopColor="var(--color-blue-500)" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint1_linear_81_19"
@@ -96,7 +96,7 @@ export default function FeatureSection() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="var(--color-blue-500)" />
-              <stop offset="1" stopColor="white" stopOpacity="0" />
+              <stop offset="1" stopColor="var(--color-blue-500)" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint2_linear_81_19"
@@ -107,7 +107,7 @@ export default function FeatureSection() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="var(--color-blue-500)" />
-              <stop offset="1" stopColor="white" stopOpacity="0" />
+              <stop offset="1" stopColor="var(--color-blue-500)" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint3_linear_81_19"
@@ -118,7 +118,7 @@ export default function FeatureSection() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="var(--color-blue-500)" />
-              <stop offset="1" stopColor="white" stopOpacity="0" />
+              <stop offset="1" stopColor="var(--color-blue-500)" stopOpacity="0" />
             </linearGradient>
             <linearGradient
               id="paint4_linear_81_19"
@@ -140,7 +140,7 @@ export default function FeatureSection() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="var(--color-blue-500)" />
-              <stop offset="1" stopColor="white" stopOpacity="0" />
+              <stop offset="1" stopColor="var(--color-blue-500)" stopOpacity="0" />
             </linearGradient>
           </defs>
         </svg>
